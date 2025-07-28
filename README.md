@@ -4,7 +4,7 @@ Este repositorio contiene la implementación de programas MPI en Python para med
 
 ## Estudiante
 [Kevin Romero]  
-Cartago, Costa Rica  
+LEAD University
 Fecha: 2025-07-27
 
 ## Descripción
